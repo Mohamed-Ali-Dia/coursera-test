@@ -1,3 +1,4 @@
 # HTML-CSS-JAVASCRIPT FOR WEB DEVELOPERS
 
-Coursera test repository
+## Module 2 Assignment Solution
+Link: https://mohamed-ali-dia.github.io/coursera-test/mod2_solution/
